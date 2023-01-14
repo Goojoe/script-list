@@ -54,6 +54,13 @@ wget -O box.sh https://t.goojoe.top/fy2y && chmod +x box.sh && clear && ./box.sh
 
 https://supermanito.github.io/LinuxMirrors/#/?id=-%e8%bd%af%e4%bb%b6%e6%ba%90
 
+### 切换镜像
+
 ```
 bash <(curl -sSL https://gitee.com/SuperManito/LinuxMirrors/raw/main/ChangeMirrors.sh)
+```
+
+## 安装docker
+```
+bash <(curl -sSL https://gitee.com/SuperManito/LinuxMirrors/raw/main/DockerInstallation.sh)
 ```
