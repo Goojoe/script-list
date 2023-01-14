@@ -6,7 +6,7 @@
  HELP: https://www.blueskyxn.com/202104/4465.html
 
 ```
-wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/box.sh && chmod +x box.sh && clear && ./box.sh
+wget -O box.sh https://t.goojoe.top/fy2y && chmod +x box.sh && clear && ./box.sh
 
 ==================================================
  1. IPV.SH ipv4/6优先级调整一键脚本·下载
