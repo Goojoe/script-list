@@ -7,7 +7,9 @@
 
 ```
 wget -O box.sh https://t.goojoe.top/fy2y && chmod +x box.sh && clear && ./box.sh
+```
 
+```
 ==================================================
  1. IPV.SH ipv4/6优先级调整一键脚本·下载
  2. IPT.SH iptable一键脚本
@@ -48,3 +50,10 @@ wget -O box.sh https://t.goojoe.top/fy2y && chmod +x box.sh && clear && ./box.sh
  0. 退出脚本
 ```
 
+## linux镜像工具
+
+https://supermanito.github.io/LinuxMirrors/#/?id=-%e8%bd%af%e4%bb%b6%e6%ba%90
+
+```
+bash <(curl -sSL https://gitee.com/SuperManito/LinuxMirrors/raw/main/ChangeMirrors.sh)
+```
