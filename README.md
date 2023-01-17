@@ -63,4 +63,5 @@ bash <(curl -sSL https://gitee.com/SuperManito/LinuxMirrors/raw/main/ChangeMirro
 ## 安装docker
 ```
 bash <(curl -sSL https://gitee.com/SuperManito/LinuxMirrors/raw/main/DockerInstallation.sh)
+curl -sSL https://get.docker.com/ | sh
 ```
